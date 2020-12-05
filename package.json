@@ -1,0 +1,21 @@
+{
+  "name": "clean-arch-rob",
+  "version": "1.0.0",
+  "description": "Personal Anki Notes for: Clean Architecture by Robert C. Martin",
+  "scripts": {
+    "build-01": "markdown-to-anki chapters/chapter01.md > chapter01.txt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Andrew4d3@github.com/Andrew4d3/clean-arch-robert.git"
+  },
+  "keywords": [
+    "notes"
+  ],
+  "author": "Andrew4d3",
+  "license": "MIT",
+  "homepage": "https://github.com/Andrew4d3/clean-arch-robert",
+  "dependencies": {
+    "markdown-to-anki": "^0.2.3"
+  }
+}
