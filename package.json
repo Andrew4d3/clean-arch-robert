@@ -4,7 +4,9 @@
   "description": "Personal Anki Notes for: Clean Architecture by Robert C. Martin",
   "scripts": {
     "build-01": "markdown-to-anki chapters/chapter01.md > chapter01.txt",
-    "build-02": "markdown-to-anki chapters/chapter02.md > chapter02.txt"
+    "build-02": "markdown-to-anki chapters/chapter02.md > chapter02.txt",
+    "build-03": "markdown-to-anki chapters/chapter03.md > chapter03.txt",
+    "build-04": "markdown-to-anki chapters/chapter04.md > chapter04.txt"
   },
   "repository": {
     "type": "git",
